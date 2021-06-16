@@ -6,9 +6,8 @@
   
   #### Je vais réécrire les fonctions suivantes en asm :
 
-    * strlen
-    _ strcpy
-    - strcmp
-    - write
-    - read
-    - strdup
+- strcpy
+- strcmp
+- write
+- read
+- strdup
