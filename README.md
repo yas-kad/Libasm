@@ -14,5 +14,5 @@
 - strdup
 
 ## Ressources
-https://harm-smits.github.io/42docs/projects/libasm
-https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm
+1. https://harm-smits.github.io/42docs/projects/libasm
+2. https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm
