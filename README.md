@@ -12,3 +12,7 @@
 - write
 - read
 - strdup
+
+## Ressources
+  https://harm-smits.github.io/42docs/projects/libasm
+  https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm
